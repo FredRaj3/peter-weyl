@@ -55,7 +55,7 @@
       "title": "Matrix coefficients are closed under product and conjugate",
       "statementFile": "MatrixCoefficients.lean",
       "theorem": "MatrixCoefficients.mul_star_mem_span_matrixCoeffs",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "2797d89b6e6cd3930af4d80851b0dfe5d36a9874"
     },
     {
       "board": "SeparatesPoints",
@@ -64,7 +64,7 @@
       "title": "Finite-dimensional unitary representations separate points",
       "statementFile": "SeparatesPoints.lean",
       "theorem": "SeparatesPoints.exists_rep_ne_one",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "2797d89b6e6cd3930af4d80851b0dfe5d36a9874"
     },
     {
       "board": "PeterWeyl",
@@ -73,7 +73,7 @@
       "title": "The Peter–Weyl theorem: density of matrix coefficients",
       "statementFile": "PeterWeyl.lean",
       "theorem": "PeterWeyl.peter_weyl",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "2797d89b6e6cd3930af4d80851b0dfe5d36a9874"
     }
   ],
   "submission": {
