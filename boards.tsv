@@ -1,3 +1,3 @@
-MatrixCoefficients	MatrixCoefficients.lean	MatrixCoefficients.mul_star_mem_span_matrixCoeffs	unposted
-SeparatesPoints	SeparatesPoints.lean	SeparatesPoints.exists_rep_ne_one	unposted
-PeterWeyl	PeterWeyl.lean	PeterWeyl.peter_weyl	unposted
+MatrixCoefficients	MatrixCoefficients.lean	MatrixCoefficients.mul_star_mem_span_matrixCoeffs	01a03b32-14f4-7797-a8c6-94d480eb996f
+SeparatesPoints	SeparatesPoints.lean	SeparatesPoints.exists_rep_ne_one	01a03b32-5f96-78e4-8173-030a0fad3a0d
+PeterWeyl	PeterWeyl.lean	PeterWeyl.peter_weyl	01a03b32-aa43-7821-9a35-9e53e953ed20
