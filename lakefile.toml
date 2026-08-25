@@ -1,0 +1,16 @@
+name = "peter-weyl"
+defaultTargets = ["MatrixCoefficients", "SeparatesPoints", "PeterWeyl"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.34.0-rc1"
+
+[[lean_lib]]
+name = "MatrixCoefficients"
+
+[[lean_lib]]
+name = "SeparatesPoints"
+
+[[lean_lib]]
+name = "PeterWeyl"

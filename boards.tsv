@@ -1,0 +1,3 @@
+MatrixCoefficients	MatrixCoefficients.lean	MatrixCoefficients.mul_star_mem_span_matrixCoeffs	unposted
+SeparatesPoints	SeparatesPoints.lean	SeparatesPoints.exists_rep_ne_one	unposted
+PeterWeyl	PeterWeyl.lean	PeterWeyl.peter_weyl	unposted
